@@ -1,0 +1,15 @@
+{
+    "name": "angular-map",
+    "version": "1.0.0",
+    "description": "Gmaps filtering with AhgularJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "preinstall": "npm install http-server -g"
+    },
+    "author": "evgenij.borodaj@gmail.com",
+    "license": "ISC",
+    "devDependencies": {
+        "http-server": "^0.10.0"
+    }
+}
